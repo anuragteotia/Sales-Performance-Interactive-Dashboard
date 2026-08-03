@@ -1,7 +1,7 @@
 # Executive Sales Performance Dashboard 
 
 ## 📌 Project Overview
-This project was developed during Week 1 of the Data Analytics Internship. The core objective was to clean, link, and model a transactional dataset containing 999+ rows and 25 relational fields across separate data buckets (`Orders`, `Returns`, and `People`) into a single unified business platform.
+This was my first project developed during the Data Analytics learning. The core objective was to clean, link, and model a transactional dataset containing 999+ rows and 25 relational fields across separate data buckets (`Orders`, `Returns`, and `People`) into a single unified business platform.
 
 ## 🛠️ Key Analytical Steps Performed
 1. **Data Joining & Integrity:** Leveraged programmatic logic to evaluate returned transactions against master orders by building an automated tracking link column (`=XLOOKUP(B2, Returns!B:B, Returns!B:B, "No")`) to completely neutralize gross margin errors.
