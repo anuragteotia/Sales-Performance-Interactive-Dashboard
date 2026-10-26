@@ -13,3 +13,7 @@ This was my first project developed during the Data Analytics learning. The core
 - **Sales Share by Category:** Segmented breakdown using contribution mapping charts.
 - **Yearly Sales Growth Trends:** Rolling longitudinal time-series chart showing operational expansion metrics.
 - **Department-wise Revenue:** Symmetrical performance layout tracking structural business units.
+
+## 🖼️ Dashboard Preview
+
+![Executive Sales Performance Dashboard](./dashboard.png)
