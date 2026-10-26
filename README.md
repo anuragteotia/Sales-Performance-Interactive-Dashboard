@@ -16,4 +16,5 @@ This was my first project developed during the Data Analytics learning. The core
 
 ## 🖼️ Dashboard Preview
 
-![Executive Sales Performance Dashboard](./dashboard.png)
+<img width="1000" height="621" alt="image" src="https://github.com/user-attachments/assets/571d02d9-3058-420d-b4a0-863d3b19d1f4" />
+
